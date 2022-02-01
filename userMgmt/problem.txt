@@ -1,0 +1,22 @@
+USER MANAGEMENT MODULE
+
+Login page - index.php
+Verification - verification.php
+Dashboard - welcome.php
+                  - home
+                  - users
+                  - add new
+                  - change password
+                  - logout
+
+User - 2 type - 1) admin  - create/delete/update users
+				2) regular - only view (no update/delete)
+
+
+Database-  userdata
+Table- user_master
+		- id
+		- login_name
+		- password
+		- type
+		- createdOn
